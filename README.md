@@ -25,7 +25,7 @@ Feel free to explore the features and functionalities of the MERN stack blog app
 
 ## Getting Started
 
-To run the MERN stack blog application locally, follow these steps:
+To run the MERN stack application locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
 2. Navigate to the project directory: `cd your-repository`

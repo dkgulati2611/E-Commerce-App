@@ -12,7 +12,7 @@ A shopping app for clocks and watches developed using mern stack. This is a comp
 
 ## Link
 
-Access the deployed application at: [https://blog-app-bpnm.onrender.com/](https://perfect-fatigues.cyclic.app/)
+Access the deployed application at: [https://perfect-fatigues.cyclic.app](https://perfect-fatigues.cyclic.app/)
 
 Feel free to explore the features and functionalities of the MERN stack blog application!
 

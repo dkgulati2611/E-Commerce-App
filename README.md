@@ -45,5 +45,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Thank you for checking out the MERN stack blog application. If you have any questions or feedback, please let me know.
+Thank you for checking out the MERN stack Ecommerce application. If you have any questions or feedback, please let me know.
 

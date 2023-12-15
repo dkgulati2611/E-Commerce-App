@@ -1,6 +1,6 @@
 # E-commerce-app
 
-A shopping app for clocks and watches developed using mern stack. This is a complete MERN (MongoDB, Express.js, React.js, Node.js) stack blog application.
+A shopping app for clocks and watches developed using mern stack. This is a complete MERN (MongoDB, Express.js, React.js, Node.js) stack Ecommerce web application.
 
 ## Features
 
